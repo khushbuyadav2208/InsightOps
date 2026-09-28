@@ -1,0 +1,10 @@
+streamlit
+fastapi
+uvicorn
+numpy
+pandas
+scikit-learn
+joblib
+faiss-cpu
+sentence-transformers
+python-dotenv
